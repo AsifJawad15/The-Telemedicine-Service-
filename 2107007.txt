@@ -1,0 +1,124 @@
+
+**TELEMEDICINE SERVICE**
+-------------------------
+
+Select your Option:
+1. Create a patient account
+2. Join as a doctor
+3. Show Doctor list
+4. Show Patient details
+5. Log in with patient id
+6. Book Appointment
+7. Scheduled Appointment
+8. Exit
+2
+Enter doctor name: Asif
+Enter doctor specialty: Heart
+Doctor Asif added
+
+**TELEMEDICINE SERVICE**
+-------------------------
+
+Select your Option:
+1. Create a patient account
+2. Join as a doctor
+3. Show Doctor list
+4. Show Patient details
+5. Log in with patient id
+6. Book Appointment
+7. Scheduled Appointment
+8. Exit
+2
+Enter doctor name: Zarif
+Enter doctor specialty: Neurology
+Doctor Zarif added
+
+**TELEMEDICINE SERVICE**
+-------------------------
+
+Select your Option:
+1. Create a patient account
+2. Join as a doctor
+3. Show Doctor list
+4. Show Patient details
+5. Log in with patient id
+6. Book Appointment
+7. Scheduled Appointment
+8. Exit
+1
+Enter patient name: Jawad
+Enter patient age: 21
+Patient Jawad added with ID: 1
+
+**TELEMEDICINE SERVICE**
+-------------------------
+
+Select your Option:
+1. Create a patient account
+2. Join as a doctor
+3. Show Doctor list
+4. Show Patient details
+5. Log in with patient id
+6. Book Appointment
+7. Scheduled Appointment
+8. Exit
+5
+Enter patient Id: 1
+Patient details:
+ID: 1, Name: Jawad, Age: 21
+
+**TELEMEDICINE SERVICE**
+-------------------------
+
+Select your Option:
+1. Create a patient account
+2. Join as a doctor
+3. Show Doctor list
+4. Show Patient details
+5. Log in with patient id
+6. Book Appointment
+7. Scheduled Appointment
+8. Exit
+3
+Doctors list:
+Name: Asif, Specialty: Heart
+Name: Zarif, Specialty: Neurology
+
+**TELEMEDICINE SERVICE**
+-------------------------
+
+Select your Option:
+1. Create a patient account
+2. Join as a doctor
+3. Show Doctor list
+4. Show Patient details
+5. Log in with patient id
+6. Book Appointment
+7. Scheduled Appointment
+8. Exit
+6
+Enter patient Id: 1
+Enter doctor name: Asif
+Enter appointment date: 7 August 2023
+Enter appointment time: 4:00pm
+Appointment booked successfully.
+
+**TELEMEDICINE SERVICE**
+-------------------------
+
+Select your Option:
+1. Create a patient account
+2. Join as a doctor
+3. Show Doctor list
+4. Show Patient details
+5. Log in with patient id
+6. Book Appointment
+7. Scheduled Appointment
+8. Exit
+7
+Enter patient Id: 1
+Previous booked appointments for patient ID 1:
+Patient: Jawad
+Doctor: Asif
+Date: 7 August 2023
+Time: 4:00pm
